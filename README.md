@@ -4,32 +4,32 @@
 
 This project focuses on cleaning, analyzing, and visualizing transactional sales data using Python and Pandas.
 
-#Objectives
+## Objectives
 
--Clean and preprocess raw data
--Handle missing values and duplicates
--Detect and remove outliers
--Aggregate and analyze sales metrics
--Create visualizations for business insights
+- Clean and preprocess raw data
+- Handle missing values and duplicates
+- Detect and remove outliers
+- Aggregate and analyze sales metrics
+- Create visualizations for business insights
 
-#Technologies
+## Technologies
 
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-#Analysis Performed
+## Analysis Performed
 
--Data type conversion
--Datetime transformation
--Currency cleaning
--Duplicate removal
--Outlier filtering using IQR
--Aggregations by category and city
--Histograms, boxplots, and bar charts
+- Data type conversion
+- Datetime transformation
+- Currency cleaning
+-  Duplicate removal
+- Outlier filtering using IQR
+- Aggregations by category and city
+- Histograms, boxplots, and bar charts
 
-#Key Insight
+## Key Insight
 
 The analysis identified the highest-performing product categories based on total revenue contribution.
