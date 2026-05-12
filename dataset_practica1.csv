@@ -1,0 +1,501 @@
+ID_Venta;Fecha_Registro;Monto_Total;Ciudad_Venta;Categoria
+1124;2023.01.04;$429,08;MÉRIDA;
+1142;;$857,16; san luis potosí;
+1029;03-Jan-2023;$1.306,68;Bogotá ;Hogar
+1169;;$811,76;monterrey;Alimentos
+1121;;$1.055,96; san luis potosí;
+1124;02/01/2023;$1.351,52;lima;
+1036;03-Jan-2023;$234,08;Querétaro;Moda
+1169;03-Jan-2023;$150,37; san luis potosí;Electrónica
+1123;03-Jan-2023;$1.886,44;Querétaro;Electrónica
+1100;;$837,52;Querétaro;Alimentos
+1034;2023.01.04;$970,68;Querétaro;Hogar
+1086;03-Jan-2023;$1.888,78;MÉRIDA;Deportes
+1133;06/01/23;$1.926,26;Querétaro;Alimentos
+1195;;$472,00;Querétaro;Hogar
+1017;02/01/2023;$291,48;lima;Deportes
+1112;2023.01.04;$279,44;monterrey;Moda
+1028;06/01/23;$235,26; Ciudad de México ;Hogar
+1076;06/01/23;$1.705,26;Guadalajara;Hogar
+1058;02/01/2023;$1.647,49;lima;Moda
+1174;2023.01.04;$324,51; Ciudad de México ;Deportes
+1125;;$1.294,99;Querétaro;
+1144;2023-01-01;$1.496,63;monterrey;Deportes
+1108;2023.01.04;$635,87; san luis potosí;Alimentos
+1021;02/01/2023;$1.526,17;monterrey;Electrónica
+1067;06/01/23;$1.981,96;lima;Hogar
+1068;;$806,83;Querétaro;
+1164;2023.01.04;$747,53;monterrey;Deportes
+1048;2023-01-01;$1.730,98;Bogotá ;Deportes
+1140;2023-01-01;$1.526,66;monterrey;Moda
+1161;03-Jan-2023;$295,94;Querétaro;Alimentos
+1108;03-Jan-2023;$1.059,98;MÉRIDA;
+1085;02/01/2023;$708,09;Bogotá ;Alimentos
+1052;2023.01.04;$839,48;monterrey;Deportes
+1122;2023.01.04;$1.820,23;Guadalajara;Alimentos
+1086;06/01/23;$706,70;Guadalajara;
+1178;06/01/23;$1.906,15;monterrey;Electrónica
+1130;06/01/23;$1.300,49;MÉRIDA;Deportes
+1041;03-Jan-2023;$657,10; san luis potosí;Hogar
+1097;2023.01.04;$1.377,79;Querétaro;
+1159;2023.01.04;$1.604,00;Guadalajara;
+1108;2023-01-01;$273,29; san luis potosí;Alimentos
+1050;03-Jan-2023;$209,36;monterrey;Alimentos
+1084;;$938,91;lima;Electrónica
+1173;03-Jan-2023;$766,74; san luis potosí;Moda
+1126;;$371,68;Bogotá ;Hogar
+1020;2023-01-01;$1.274,61; Ciudad de México ;Moda
+1043;02/01/2023;$259,80;Guadalajara;Deportes
+1138;2023.01.04;$238,25;monterrey;Hogar
+1102;2023-01-01;$1.441,86;lima;Electrónica
+1067;2023.01.04;$13.059,58;Querétaro;
+1128;06/01/23;$811,11;lima;Moda
+1091;02/01/2023;$1.644,32;MÉRIDA;Hogar
+1190;02/01/2023;$1.973,40;Bogotá ;Moda
+1023;2023-01-01;$814,89;monterrey;Deportes
+1124;02/01/2023;$1.576,58;Querétaro;Alimentos
+1140;;$906,02;MÉRIDA;
+1110;02/01/2023;$311,28;MÉRIDA;Moda
+1097;2023.01.04;$121,57;monterrey;Deportes
+1138;2023.01.04;$206,98;Bogotá ;Hogar
+1178;2023.01.04;$323,30; san luis potosí;Electrónica
+1016;2023.01.04;$1.517,49; san luis potosí;Electrónica
+1098;;$1.928,13;MÉRIDA;Electrónica
+1081;03-Jan-2023;$642,85; san luis potosí;Alimentos
+1103;06/01/23;$26.241,60; Ciudad de México ;Moda
+1151;2023-01-01;$6.154,68;MÉRIDA;Electrónica
+1018;2023.01.04;$182,00;MÉRIDA;Hogar
+1164;02/01/2023;$55.131,61;Querétaro;
+1084;2023.01.04;$240,21; san luis potosí;
+1007;02/01/2023;$1.941,67;Bogotá ;
+1027;06/01/23;$1.295,86;MÉRIDA;Deportes
+1004;06/01/23;$963,63;lima;Deportes
+1144;06/01/23;$1.210,20;Bogotá ;Deportes
+1100;02/01/2023;$186,35; Ciudad de México ;Deportes
+1163;2023.01.04;$1.905,78;Querétaro;Alimentos
+1117;06/01/23;$965,75;monterrey;
+1146;;$627,02;Bogotá ;Moda
+1063;02/01/2023;$981,03;MÉRIDA;Alimentos
+1090;02/01/2023;$1.208,95; Ciudad de México ;Hogar
+1116;2023.01.04;$97.567,51;Guadalajara;Moda
+1097;02/01/2023;$1.426,51; Ciudad de México ;Electrónica
+1010;02/01/2023;$688,10; Ciudad de México ;Electrónica
+1053;06/01/23;$1.400,99;Querétaro;
+1172;2023.01.04;$1.830,76;monterrey;
+1046;06/01/23;$1.904,62;Guadalajara;Moda
+1139;06/01/23;$1.265,49; san luis potosí;Deportes
+1148;2023.01.04;$1.872,18; san luis potosí;Deportes
+1138;2023-01-01;$185,92;Bogotá ;Electrónica
+1004;06/01/23;$815,28; Ciudad de México ;Deportes
+1183;;$1.975,82;lima;Deportes
+1019;;$1.228,85;Querétaro;Hogar
+1168;02/01/2023;$1.942,84;lima;
+1045;;$1.692,82;Querétaro;Alimentos
+1011;02/01/2023;$888,16; san luis potosí;Moda
+1069;2023-01-01;$207,11;Bogotá ;Alimentos
+1016;2023.01.04;$82.225,60;Bogotá ;Alimentos
+1114;2023.01.04;$1.993,61;Bogotá ;
+1146;2023.01.04;$1.561,08;Guadalajara;Moda
+1153;;$1.714,33;monterrey;Alimentos
+1047;2023-01-01;$956,03;Guadalajara;Hogar
+1107;;$1.912,70;MÉRIDA;Alimentos
+1051;;$534,42;MÉRIDA;Alimentos
+1095;2023-01-01;$1.274,44;lima;Alimentos
+1069;2023-01-01;$315,76;monterrey;Hogar
+1182;2023-01-01;$1.088,58; san luis potosí;
+1101;2023-01-01;$1.088,31;monterrey;
+1074;2023.01.04;$1.148,62;Querétaro;Electrónica
+1160;03-Jan-2023;$1.765,64;MÉRIDA;Alimentos
+1189;03-Jan-2023;$354,63; Ciudad de México ;Alimentos
+1150;2023-01-01;$1.534,76; Ciudad de México ;Deportes
+1142;03-Jan-2023;$1.437,75; san luis potosí;Deportes
+1154;03-Jan-2023;$359,11;Querétaro;Moda
+1191;2023-01-01;$766,12;lima;Deportes
+1178;03-Jan-2023;$845,26;Guadalajara;Hogar
+1180;;$1.817,90;Querétaro;Alimentos
+1081;02/01/2023;$1.076,58; Ciudad de México ;
+1091;02/01/2023;$853,43; Ciudad de México ;
+1178;2023-01-01;$1.738,49;lima;Electrónica
+1174;2023.01.04;$379,44;MÉRIDA;Deportes
+1003;2023-01-01;$1.035,02;Querétaro;
+1134;2023.01.04;$48.617,90;Querétaro;Hogar
+1108;02/01/2023;$1.035,97; Ciudad de México ;
+1162;2023-01-01;$1.303,46;Guadalajara;Alimentos
+1047;06/01/23;$244,14; san luis potosí;Hogar
+1072;;$343,29;Bogotá ;Electrónica
+1071;03-Jan-2023;$363,77; san luis potosí;Deportes
+1115;2023.01.04;$445,57;Querétaro;Alimentos
+1172;06/01/23;$1.803,90; san luis potosí;Deportes
+1080;03-Jan-2023;$1.368,36; Ciudad de México ;Alimentos
+1080;03-Jan-2023;$465,35; Ciudad de México ;
+1112;2023-01-01;$420,98;lima;
+1095;03-Jan-2023;$436,32;Querétaro;Electrónica
+1071;;$329,21;lima;
+1146;06/01/23;$492,03;Querétaro;
+1062;03-Jan-2023;$1.056,49;Bogotá ;
+1037;2023-01-01;$174,69;Bogotá ;Alimentos
+1066;;$1.293,01;MÉRIDA;Deportes
+1186;02/01/2023;$1.759,80;Querétaro;Moda
+1068;06/01/23;$216,05;Guadalajara;Deportes
+1012;03-Jan-2023;$1.631,78; san luis potosí;Hogar
+1174;2023-01-01;$450,59;Querétaro;
+1188;02/01/2023;$803,90;monterrey;Hogar
+1030;02/01/2023;$1.274,68;MÉRIDA;
+1113;2023.01.04;$978,82;monterrey;
+1021;;$169,70; Ciudad de México ;Electrónica
+1092;03-Jan-2023;$1.455,36;Bogotá ;Hogar
+1170;2023-01-01;$1.072,19; san luis potosí;
+1066;2023.01.04;$303,63;Querétaro;Deportes
+1053;;$1.111,97;monterrey;Electrónica
+1137;2023.01.04;$611,56; san luis potosí;Hogar
+1041;06/01/23;$138,14; Ciudad de México ;Deportes
+1063;;$501,75;Bogotá ;Hogar
+1125;;$327,55;Guadalajara;Alimentos
+1020;03-Jan-2023;$1.227,83;MÉRIDA;Deportes
+1193;;$1.599,43; san luis potosí;Hogar
+1168;2023.01.04;$265,15; san luis potosí;Hogar
+1151;;$1.215,00;Guadalajara;Electrónica
+1034;03-Jan-2023;$920,15; san luis potosí;Deportes
+1183;03-Jan-2023;$639,17; Ciudad de México ;Hogar
+1029;06/01/23;$1.327,24; Ciudad de México ;Deportes
+1056;2023.01.04;$38.829,19;Guadalajara;
+1046;02/01/2023;$1.250,97;MÉRIDA;Electrónica
+1162;02/01/2023;$293,39;Querétaro;Moda
+1018;;$567,32;monterrey;Electrónica
+1113;06/01/23;$454,48;Querétaro;Hogar
+1007;2023-01-01;$429,41; san luis potosí;Alimentos
+1025;;$252,44;monterrey;Deportes
+1112;06/01/23;$43.987,70;lima;
+1070;2023.01.04;$312,87;Guadalajara;Moda
+1029;2023.01.04;$1.941,99;Guadalajara;Deportes
+1134;2023.01.04;$1.652,44;MÉRIDA;
+1066;2023.01.04;$424,69;monterrey;Alimentos
+1064;2023.01.04;$1.865,81; Ciudad de México ;Deportes
+1035;06/01/23;$1.186,06;monterrey;Moda
+1024;06/01/23;$1.562,04; san luis potosí;Deportes
+1036;03-Jan-2023;$714,99; Ciudad de México ;Moda
+1000;02/01/2023;$1.064,46;Bogotá ;Electrónica
+1142;2023.01.04;$318,19;Bogotá ;Moda
+1036;2023-01-01;$648,40;lima;Deportes
+1140;06/01/23;$393,29;Bogotá ;Alimentos
+1135;2023-01-01;$1.111,92;Guadalajara;Hogar
+1132;2023-01-01;$739,55;monterrey;Electrónica
+1187;2023-01-01;$11.020,62;Bogotá ;Moda
+1127;03-Jan-2023;$712,47;Querétaro;Moda
+1126;06/01/23;$583,82;MÉRIDA;Hogar
+1000;2023-01-01;$1.544,43;Querétaro;Electrónica
+1163;2023.01.04;$995,99;Bogotá ;Moda
+1034;;$762,85;lima;Electrónica
+1193;2023-01-01;$83.908,84;MÉRIDA;Electrónica
+1190;03-Jan-2023;$336,16; san luis potosí;Hogar
+1103;06/01/23;$1.882,85;Querétaro;Deportes
+1022;03-Jan-2023;$226,34;lima;Electrónica
+1008;2023-01-01;$1.191,50;monterrey;Electrónica
+1033;06/01/23;$365,57;monterrey;Moda
+1173;;$483,09;Querétaro;Moda
+1127;2023-01-01;$412,11;Bogotá ;Deportes
+1003;03-Jan-2023;$1.363,87;lima;Deportes
+1157;02/01/2023;$781,78;monterrey;Moda
+1101;2023.01.04;$845,65; san luis potosí;
+1074;03-Jan-2023;$934,36; Ciudad de México ;Alimentos
+1098;06/01/23;$979,09;Bogotá ;
+1071;2023-01-01;$1.520,46;lima;Deportes
+1002;2023.01.04;$541,20; san luis potosí;Deportes
+1141;2023-01-01;$829,39;lima;Deportes
+1187;06/01/23;$1.822,30;MÉRIDA;Moda
+1172;2023-01-01;$322,11; san luis potosí;
+1033;02/01/2023;$1.292,65;Bogotá ;Deportes
+1044;2023.01.04;$364,62;MÉRIDA;Hogar
+1060;2023.01.04;$1.278,14;Bogotá ;Moda
+1082;06/01/23;$1.798,40;monterrey;Deportes
+1122;02/01/2023;$388,18; Ciudad de México ;Moda
+1101;03-Jan-2023;$572,13;Bogotá ;
+1015;2023-01-01;$163,71;Bogotá ;Hogar
+1065;;$1.548,67;monterrey;Deportes
+1167;2023-01-01;$749,96;Guadalajara;Alimentos
+1144;2023-01-01;$310,20;monterrey;
+1118;03-Jan-2023;$342,23;MÉRIDA;Electrónica
+1161;2023-01-01;$1.614,86;monterrey;
+1123;02/01/2023;$535,58;monterrey;Moda
+1143;02/01/2023;$1.468,07; Ciudad de México ;Moda
+1101;2023.01.04;$1.418,50;monterrey;Alimentos
+1187;06/01/23;$578,42;lima;Deportes
+1065;;$445,04;Bogotá ;Moda
+1193;2023-01-01;$1.208,44;lima;Deportes
+1012;2023-01-01;$977,81; Ciudad de México ;Electrónica
+1183;03-Jan-2023;$391,37;Querétaro;Alimentos
+1110;06/01/23;$1.061,19;Guadalajara;Alimentos
+1158;02/01/2023;$134,41;lima;Moda
+1033;;$1.871,02; Ciudad de México ;
+1038;2023.01.04;$1.423,64;MÉRIDA;
+1194;02/01/2023;$1.443,75;Querétaro;Alimentos
+1135;06/01/23;$1.194,95; Ciudad de México ;Moda
+1119;2023.01.04;$905,85; Ciudad de México ;Alimentos
+1125;03-Jan-2023;$1.875,30;Guadalajara;
+1054;03-Jan-2023;$956,59;Bogotá ;Hogar
+1026;2023-01-01;$1.971,20;lima;Alimentos
+1117;06/01/23;$336,86;MÉRIDA;Deportes
+1052;;$1.752,80; san luis potosí;Hogar
+1038;2023.01.04;$1.223,42;lima;Deportes
+1064;02/01/2023;$204,05; san luis potosí;
+1144;06/01/23;$1.625,42; Ciudad de México ;
+1157;06/01/23;$733,65;monterrey;Hogar
+1180;03-Jan-2023;$1.121,05;MÉRIDA;Electrónica
+1012;2023-01-01;$758,06;Querétaro;
+1020;2023-01-01;$1.501,25;monterrey;
+1146;2023.01.04;$526,75;monterrey;Deportes
+1052;03-Jan-2023;$367,63;lima;
+1018;06/01/23;$1.046,90;MÉRIDA;Electrónica
+1056;;$1.838,21;Bogotá ;Deportes
+1024;03-Jan-2023;$1.203,12; Ciudad de México ;
+1030;2023.01.04;$124,88; Ciudad de México ;
+1080;2023.01.04;$21.913,42; Ciudad de México ;Deportes
+1182;03-Jan-2023;$382,46; Ciudad de México ;Hogar
+1022;2023.01.04;$13.108,22;lima;Hogar
+1031;03-Jan-2023;$1.054,17; san luis potosí;Deportes
+1189;02/01/2023;$227,45; Ciudad de México ;Deportes
+1073;03-Jan-2023;$498,82; san luis potosí;
+1009;03-Jan-2023;$489,77; san luis potosí;
+1199;2023.01.04;$169,44;Bogotá ;Electrónica
+1053;2023.01.04;$1.173,20; Ciudad de México ;Hogar
+1051;2023-01-01;$1.573,50;Guadalajara;Hogar
+1147;2023-01-01;$1.096,34;Querétaro;Moda
+1159;02/01/2023;$861,45;monterrey;Alimentos
+1113;2023-01-01;$394,96; san luis potosí;
+1013;03-Jan-2023;$1.737,39;MÉRIDA;Electrónica
+1177;2023.01.04;$809,29;MÉRIDA;Alimentos
+1155;2023-01-01;$1.323,60;Querétaro;Moda
+1109;2023-01-01;$148,23;MÉRIDA;Alimentos
+1052;02/01/2023;$1.460,35;Guadalajara;Moda
+1151;06/01/23;$151,48;MÉRIDA;Alimentos
+1078;02/01/2023;$539,04;monterrey;Electrónica
+1021;03-Jan-2023;$137,45;monterrey;Electrónica
+1029;2023.01.04;$1.619,84; san luis potosí;Deportes
+1190;02/01/2023;$1.340,22; Ciudad de México ;Electrónica
+1003;2023-01-01;$288,94;Bogotá ;Electrónica
+1058;2023.01.04;$1.472,31;Guadalajara;Alimentos
+1007;2023.01.04;$1.677,42; san luis potosí;Deportes
+1011;2023-01-01;$1.369,36;Guadalajara;Electrónica
+1118;02/01/2023;$656,98; Ciudad de México ;Electrónica
+1158;2023-01-01;$124,70;lima;Hogar
+1033;06/01/23;$494,98;MÉRIDA;Alimentos
+1081;2023.01.04;$444,73;MÉRIDA;
+1097;;$900,71;Bogotá ;Electrónica
+1126;;$1.653,14; Ciudad de México ;Hogar
+1074;03-Jan-2023;$592,90; san luis potosí;Moda
+1104;2023-01-01;$1.221,56;Bogotá ;Deportes
+1048;2023-01-01;$1.285,88; Ciudad de México ;
+1078;03-Jan-2023;$1.148,89;Querétaro;Deportes
+1184;03-Jan-2023;$659,48;monterrey;Moda
+1092;03-Jan-2023;$1.550,85;Bogotá ;
+1153;2023.01.04;$1.750,09;Bogotá ;Alimentos
+1017;06/01/23;$1.799,65; san luis potosí;Deportes
+1095;2023-01-01;$907,91;Guadalajara;Alimentos
+1037;2023.01.04;$610,49;Querétaro;Deportes
+1086;03-Jan-2023;$1.303,61; san luis potosí;Moda
+1087;2023-01-01;$364,78; Ciudad de México ;Hogar
+1049;2023.01.04;$1.970,36; Ciudad de México ;Electrónica
+1007;06/01/23;$426,19; Ciudad de México ;
+1168;2023.01.04;$134,94;lima;
+1133;06/01/23;$323,73; Ciudad de México ;Deportes
+1068;03-Jan-2023;$620,70;Guadalajara;Deportes
+1171;06/01/23;$1.337,70;Querétaro;Deportes
+1120;2023-01-01;$492,20;MÉRIDA;Moda
+1063;03-Jan-2023;$360,08;monterrey;Moda
+1156;2023-01-01;$1.760,39;Guadalajara;Moda
+1155;;$1.240,98;Guadalajara;Hogar
+1138;02/01/2023;$433,21;lima;
+1120;06/01/23;$895,66;MÉRIDA;Electrónica
+1064;02/01/2023;$1.085,94;MÉRIDA;Alimentos
+1106;02/01/2023;$415,94;monterrey;Electrónica
+1146;06/01/23;$257,32;monterrey;Hogar
+1136;03-Jan-2023;$566,16;MÉRIDA;Deportes
+1154;;$648,52; Ciudad de México ;Hogar
+1161;2023-01-01;$1.466,19;Guadalajara;Moda
+1171;2023.01.04;$1.176,17; san luis potosí;Moda
+1195;2023-01-01;$1.360,98;monterrey;Electrónica
+1099;2023.01.04;$1.491,89;lima;Alimentos
+1081;2023-01-01;$159,25;lima;Moda
+1142;06/01/23;$1.230,65;monterrey;Moda
+1050;;$1.043,10;MÉRIDA;Deportes
+1140;2023.01.04;$735,06;Querétaro;Electrónica
+1082;03-Jan-2023;$302,54; san luis potosí;Alimentos
+1176;2023-01-01;$1.483,56; san luis potosí;Alimentos
+1197;2023-01-01;$1.407,96;monterrey;Deportes
+1111;2023.01.04;$568,16; Ciudad de México ;Moda
+1055;03-Jan-2023;$1.618,89;Querétaro;Moda
+1178;03-Jan-2023;$617,08; san luis potosí;Moda
+1164;06/01/23;$785,85;monterrey;Electrónica
+1144;06/01/23;$1.842,90;lima;Hogar
+1185;06/01/23;$1.905,45; san luis potosí;
+1156;06/01/23;$451,75;Bogotá ;Alimentos
+1160;06/01/23;$1.758,60;Querétaro;Electrónica
+1059;06/01/23;$1.632,47;Querétaro;Hogar
+1119;;$1.415,33;Bogotá ;
+1182;03-Jan-2023;$574,37;Guadalajara;Electrónica
+1137;06/01/23;$26.014,90;lima;Deportes
+1174;03-Jan-2023;$1.893,71;Bogotá ;Alimentos
+1022;03-Jan-2023;$1.440,59;MÉRIDA;Moda
+1148;02/01/2023;$443,09;MÉRIDA;Hogar
+1012;;$1.839,43;monterrey;Deportes
+1100;06/01/23;$1.425,10;Querétaro;Electrónica
+1160;2023-01-01;$92.817,64;Guadalajara;Deportes
+1023;2023.01.04;$1.894,11;Guadalajara;Moda
+1107;2023-01-01;$1.737,88; san luis potosí;Hogar
+1010;;$706,29; san luis potosí;Electrónica
+1016;2023.01.04;$170,31;Bogotá ;Moda
+1195;;$537,02;Guadalajara;Moda
+1174;03-Jan-2023;$246,21;Bogotá ;Deportes
+1024;2023.01.04;$745,76;lima;Hogar
+1093;03-Jan-2023;$224,18;Bogotá ;Deportes
+1020;2023-01-01;$1.125,03; san luis potosí;Electrónica
+1083;2023-01-01;$705,63;Querétaro;Electrónica
+1139;2023.01.04;$1.783,36;Bogotá ;Moda
+1036;2023.01.04;$542,62; Ciudad de México ;Electrónica
+1041;06/01/23;$1.753,19;Querétaro;Alimentos
+1144;;$1.761,93;Guadalajara;
+1100;06/01/23;$1.884,23;Guadalajara;Deportes
+1047;;$1.996,07;Bogotá ;Deportes
+1102;06/01/23;$1.557,66;Querétaro;Electrónica
+1027;03-Jan-2023;$1.011,76; san luis potosí;Alimentos
+1040;2023.01.04;$87.999,33; san luis potosí;Moda
+1098;2023-01-01;$1.559,72;MÉRIDA;Moda
+1046;;$900,58;Guadalajara;
+1145;;$553,68;monterrey;Hogar
+1104;2023-01-01;$773,78;MÉRIDA;Deportes
+1123;06/01/23;$662,99; san luis potosí;Moda
+1198;;$179,98;Querétaro;Moda
+1012;03-Jan-2023;$1.976,67;lima;Electrónica
+1140;2023.01.04;$830,22; san luis potosí;Hogar
+1099;2023-01-01;$514,68;Querétaro;Electrónica
+1030;2023.01.04;$1.594,06;MÉRIDA;Moda
+1129;;$893,40;Guadalajara;Moda
+1015;;$1.894,99; san luis potosí;Deportes
+1136;2023-01-01;$1.265,48;Bogotá ;Electrónica
+1072;03-Jan-2023;$1.983,22;Querétaro;Electrónica
+1165;02/01/2023;$1.891,19;Guadalajara;Deportes
+1053;2023-01-01;$1.254,70;lima;
+1183;02/01/2023;$538,27;lima;Alimentos
+1099;06/01/23;$518,92;monterrey;
+1108;02/01/2023;$1.581,21;Querétaro;Electrónica
+1086;03-Jan-2023;$10.495,05;MÉRIDA;
+1172;06/01/23;$1.779,19;monterrey;Electrónica
+1161;02/01/2023;$1.990,32;monterrey;Alimentos
+1136;06/01/23;$852,86; Ciudad de México ;Moda
+1007;02/01/2023;$1.422,44; san luis potosí;Electrónica
+1006;03-Jan-2023;$1.650,08;Querétaro;
+1035;02/01/2023;$525,25;monterrey;Hogar
+1017;02/01/2023;$1.226,59; Ciudad de México ;Electrónica
+1002;02/01/2023;$273,82;MÉRIDA;Alimentos
+1027;2023-01-01;$604,64;Guadalajara;Deportes
+1069;2023-01-01;$1.788,62;Bogotá ;Hogar
+1171;2023-01-01;$1.738,04;Bogotá ;Alimentos
+1148;03-Jan-2023;$1.344,96;Querétaro;
+1027;06/01/23;$265,27;monterrey;Moda
+1053;;$808,11;Bogotá ;Alimentos
+1181;02/01/2023;$1.474,50; san luis potosí;
+1064;02/01/2023;$253,99;Bogotá ;Deportes
+1099;03-Jan-2023;$1.398,19;Bogotá ;Hogar
+1020;02/01/2023;$1.717,29;Bogotá ;Electrónica
+1012;2023-01-01;$1.013,11;lima;
+1056;;$1.666,89; Ciudad de México ;Deportes
+1048;2023.01.04;$1.388,23;monterrey;Electrónica
+1117;02/01/2023;$607,35; san luis potosí;Deportes
+1053;2023-01-01;$1.615,11;monterrey;Alimentos
+1137;2023.01.04;$1.716,11;lima;Deportes
+1052;;$1.445,89;Querétaro;Moda
+1043;2023.01.04;$1.425,20;Querétaro;Deportes
+1046;2023-01-01;$1.275,36;Querétaro;
+1052;06/01/23;$401,35;MÉRIDA;Alimentos
+1073;06/01/23;$1.756,50;Bogotá ;Deportes
+1045;2023.01.04;$1.669,05;MÉRIDA;Hogar
+1012;03-Jan-2023;$736,73; Ciudad de México ;Electrónica
+1164;2023.01.04;$405,44;Querétaro;Electrónica
+1101;02/01/2023;$1.681,05;lima;
+1023;02/01/2023;$112,13; san luis potosí;
+1001;06/01/23;$63.608,06;monterrey;Moda
+1080;03-Jan-2023;$1.300,45;Bogotá ;
+1099;2023-01-01;$1.304,61;Guadalajara;Electrónica
+1141;02/01/2023;$1.581,71; san luis potosí;Alimentos
+1137;06/01/23;$1.545,95;Bogotá ;Moda
+1162;;$1.929,68;MÉRIDA;Deportes
+1152;06/01/23;$1.301,98;MÉRIDA;Alimentos
+1130;02/01/2023;$294,77; san luis potosí;Electrónica
+1110;02/01/2023;$1.406,98;MÉRIDA;
+1101;06/01/23;$671,83;Querétaro;Moda
+1016;2023-01-01;$227,97; Ciudad de México ;Electrónica
+1011;2023.01.04;$757,18;monterrey;Alimentos
+1181;02/01/2023;$186,91; Ciudad de México ;Hogar
+1115;06/01/23;$97.481,45;Bogotá ;Electrónica
+1023;06/01/23;$1.524,34;monterrey;Alimentos
+1028;03-Jan-2023;$1.540,70;lima;Electrónica
+1170;2023.01.04;$142,03;monterrey;
+1152;;$1.028,42; Ciudad de México ;Electrónica
+1121;2023-01-01;$1.398,26; san luis potosí;
+1187;;$30.994,53;monterrey;Moda
+1089;2023.01.04;$909,74;lima;Alimentos
+1064;2023.01.04;$410,89;lima;Deportes
+1083;2023.01.04;$1.418,00;lima;Alimentos
+1118;;$256,52; Ciudad de México ;Deportes
+1155;2023.01.04;$1.343,57;monterrey;Electrónica
+1015;06/01/23;$1.906,64;Guadalajara;Deportes
+1174;;$921,44; san luis potosí;Electrónica
+1103;2023.01.04;$897,48;Querétaro;Alimentos
+1091;06/01/23;$855,43;monterrey;Electrónica
+1185;03-Jan-2023;$1.969,56;lima;Hogar
+1026;2023.01.04;$1.798,79;Guadalajara;Deportes
+1180;;$504,90;Querétaro;Deportes
+1169;02/01/2023;$1.338,17;Querétaro;Moda
+1186;2023.01.04;$1.742,28;Bogotá ;Deportes
+1174;02/01/2023;$1.939,57;monterrey;Deportes
+1161;06/01/23;$1.750,38; Ciudad de México ;
+1164;03-Jan-2023;$1.564,75;monterrey;Hogar
+1133;2023-01-01;$1.545,95;Guadalajara;Electrónica
+1134;03-Jan-2023;$349,37;Querétaro;Moda
+1152;2023.01.04;$1.849,61;monterrey;Hogar
+1032;02/01/2023;$1.613,42; Ciudad de México ;Moda
+1054;02/01/2023;$322,89;Bogotá ;Electrónica
+1185;;$1.402,57;monterrey;Moda
+1006;02/01/2023;$481,00; san luis potosí;Moda
+1056;;$222,00;Bogotá ;Alimentos
+1125;06/01/23;$611,09; Ciudad de México ;
+1011;2023-01-01;$689,69;Guadalajara;Hogar
+1015;2023.01.04;$122,08;Querétaro;
+1042;;$845,74;monterrey;Moda
+1116;2023-01-01;$1.240,04; Ciudad de México ;Alimentos
+1134;02/01/2023;$1.420,47;Bogotá ;Alimentos
+1110;02/01/2023;$1.581,72; san luis potosí;
+1050;2023-01-01;$1.012,96; Ciudad de México ;Electrónica
+1159;02/01/2023;$27.994,28;MÉRIDA;Electrónica
+1074;06/01/23;$370,74;lima;
+1007;06/01/23;$1.274,50; san luis potosí;Moda
+1199;2023-01-01;$1.163,33;Bogotá ;Moda
+1044;;$720,28;Guadalajara;
+1058;;$266,95;Querétaro;Hogar
+1131;2023-01-01;$163,09;Bogotá ;Deportes
+1103;;$854,15;lima;Moda
+1194;;$1.178,33;Guadalajara;Deportes
+1156;06/01/23;$1.621,11;monterrey;Moda
+1156;;$418,22; Ciudad de México ;Hogar
+1097;03-Jan-2023;$1.309,22;MÉRIDA;Deportes
+1155;2023.01.04;$160,01; san luis potosí;Hogar
+1078;02/01/2023;$198,75; san luis potosí;Alimentos
+1123;03-Jan-2023;$1.447,21; Ciudad de México ;Alimentos
+1171;;$1.456,77;MÉRIDA;Electrónica
+1003;06/01/23;$744,96; Ciudad de México ;Moda
+1089;2023-01-01;$252,22;monterrey;
+1103;;$1.140,43;lima;Deportes
+1136;06/01/23;$959,40;Guadalajara;
+1118;2023.01.04;$1.100,17;Bogotá ;Moda
+1132;;$255,10; san luis potosí;Electrónica
+1055;2023-01-01;$569,50;monterrey;
+1095;06/01/23;$1.756,39;Guadalajara;Hogar
+1177;06/01/23;$1.954,14;monterrey;Deportes
+1074;06/01/23;$446,02;MÉRIDA;Deportes
+1142;2023.01.04;$1.351,54; san luis potosí;Hogar
+1031;;$1.155,19;Bogotá ;Moda
+1027;2023.01.04;$26.703,20; Ciudad de México ;Alimentos
+1021;02/01/2023;$1.952,11; Ciudad de México ;Moda
+1016;02/01/2023;$479,13;Guadalajara;Moda
+1058;;$237,18;Bogotá ;Hogar
+1089;2023.01.04;$589,60;lima;Moda
